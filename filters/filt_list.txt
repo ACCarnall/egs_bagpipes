@@ -1,0 +1,11 @@
+../filters/CFHT_MegaCam.u_1.dat
+../filters/f606w
+../filters/f814w
+../filters/CFHT_MegaCam.z_1.dat
+../filters/f125w
+../filters/f140w
+../filters/f160w
+../filters/irac_ch1.res.txt
+../filters/irac_ch2.res.txt
+../filters/IRAC3
+../filters/IRAC4
