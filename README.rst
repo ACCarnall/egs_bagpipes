@@ -2,6 +2,8 @@ This repository contains results from fitting the `Stefanon et al. (2017) <https
 
 The output catalogues can be found under fitting/pipes/cats, full posterior distributions are available upon request, running to about 10 GB per run.
 
+Input assumptions can be found in the python files under fitting, the run with redshifts free to vary is complete, the run with redshifts fixed to the CANDELS values is still in progress.
+
 These results were generated with BAGPIPES v0.8.8, and are fully reproducible with the code provided in this repository.
 
 Please cite `Carnall et al. (2018) <https://arxiv.org/abs/1712.04452>`_ for use of these results, and feel free to get in touch for assistance.
