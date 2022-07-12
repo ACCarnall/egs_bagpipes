@@ -39,6 +39,3 @@ def load_egs(ID):
             photometry[i, 1] = 9.9*10**99.
 
     return photometry.astype("float")
-
-
-load_egs("1")
